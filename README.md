@@ -34,10 +34,20 @@ I'm a career-changer with a background in Petroleum Engineering, currently trans
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/your-profile)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/your-username)
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 10px;" />
+  </a>
+  <a href="https://facebook.com/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook" style="margin-right: 10px;" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" style="margin-right: 10px;" />
+  </a>
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
