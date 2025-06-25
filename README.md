@@ -1,8 +1,8 @@
 <!-- Banner -->
 <img src="https://your-banner-image-url.com" alt="Banner" style="width:100%;" />
 
-<h1 align="center">Hi, I'm Anamul Hoque Shourov 👋</h1>
-<h3 align="center">Aspiring Software Engineer | JavaScript & React Enthusiast</h3>
+<h1 align="center">Hello, This is Anamul Hoque Shourov</h1>
+<h3 align="center">An Aspiring Web Developer</h3>
 
 ---
 
@@ -22,7 +22,6 @@ I'm a career-changer with a background in Petroleum Engineering, currently trans
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
@@ -35,7 +34,7 @@ I'm a career-changer with a background in Petroleum Engineering, currently trans
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/anamul-hoque-shourov" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 10px;" />
   </a>
   <a href="https://facebook.com/your-profile" target="_blank">
