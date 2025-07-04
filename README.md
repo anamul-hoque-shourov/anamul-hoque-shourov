@@ -1,25 +1,14 @@
-<!-- Banner -->
-<img src="https://your-banner-image-url.com" alt="Banner" style="width:100%;" />
-
-<h1 align="center">Hello, This is Anamul Hoque Shourov</h1>
-<h3 align="center">An Aspiring Web Developer</h3>
-
----
-
-## 👨‍💻 About Me
-
-I'm a career-changer with a background in Petroleum Engineering, currently transitioning into the software industry. Passionate about full-stack development, I'm working hard to sharpen my skills with modern technologies like React, Next.js, and Node.js.
-
-- 🔭 I’m currently working on a **Billing System for a C&F Organization**
-- 🌱 I’m exploring **Next.js and TypeScript**
-- 👯 I’m looking to collaborate on **open source React projects**
-- 📚 Currently learning **MongoDB & Express.js**
+## About Me
+Passionate about full-stack development, I'm working hard to sharpen my skills with modern technologies.
+- I’m currently working on a
+- I’m exploring **Next.js and TypeScript**
+- I’m looking to collaborate on **open source React projects**
 
 ---
 
 ## 🛠️ My Skills
 
-<p align="left">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
@@ -31,9 +20,9 @@ I'm a career-changer with a background in Petroleum Engineering, currently trans
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/anamul-hoque-shourov" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 10px;" />
   </a>
@@ -50,10 +39,8 @@ I'm a career-changer with a background in Petroleum Engineering, currently trans
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-
----
