@@ -1,8 +1,9 @@
 ## About Me
-Passionate about full-stack development, I'm working hard to sharpen my skills with modern technologies.
-- I’m currently working on a
-- I’m exploring **Next.js and TypeScript**
-- I’m looking to collaborate on **open source React projects**
+Enthusiastic about how things work under the hood. Raging against the machine.
+- Working on **React & Node.js**
+- Exploring **Mystries of Golang**
+- Digging deep inside the core, **How computers work?!**
+- Avoiding the sprinter mindset, focused on the marathon
 
 ---
 
@@ -36,11 +37,3 @@ Passionate about full-stack development, I'm working hard to sharpen my skills w
     <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
----
-
-## GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
